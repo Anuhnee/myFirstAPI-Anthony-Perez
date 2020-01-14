@@ -1,0 +1,16 @@
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.deps.json
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.runtimeconfig.json
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.dll
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.pdb
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.RazorAssemblyInfo.cache
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.RazorAssemblyInfo.cs
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.dll
+C:\Users\Anthony\source\repos\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.pdb
